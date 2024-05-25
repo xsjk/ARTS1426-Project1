@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="base" size="0.200000 0.200000" />
+    <ImageTarget name="hope" size="0.100000 0.100000" />
+    <ImageTarget name="determination" size="0.100000 0.100000" />
+    <ImageTarget name="order" size="0.100000 0.100000" />
+    <ImageTarget name="absurd" size="0.100000 0.100000" />
+    <ImageTarget name="lonliness" size="0.100000 0.100000" />
+    <ImageTarget name="anxiety" size="0.100000 0.100000" />
+    <ImageTarget name="freedom" size="0.100000 0.100000" />
+    <ImageTarget name="ambition" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>
